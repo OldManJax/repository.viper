@@ -19,7 +19,7 @@
 </extension>
 </addon>
 
-<addon id="script.module.viperscrapers" name="Viper Scrapers" version="1.1" provider-name="Jax">
+<addon id="script.module.viperscrapers" name="Viper Scrapers" version="1.2" provider-name="Jax">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.requests" />
